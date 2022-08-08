@@ -71,6 +71,11 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Downloads/header.jpg</locationURI>
 		</link>
 		<link>
+			<name>src/main/webapp/resources/images/header1.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/header1.png</locationURI>
+		</link>
+		<link>
 			<name>src/main/webapp/resources/images/pic01.jpg</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/pic01.jpg</locationURI>
@@ -114,6 +119,26 @@
 			<name>src/main/webapp/resources/images/pic09.jpg</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/pic09.jpg</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/images/김유섭.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/%EA%B9%80%EC%9C%A0%EC%84%AD.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/images/김지영1.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/%EA%B9%80%EC%A7%80%EC%98%811.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/images/송찬영.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/%EC%86%A1%EC%B0%AC%EC%98%81.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/images/이하성.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/%EC%9D%B4%ED%95%98%EC%84%B1.png</locationURI>
 		</link>
 		<link>
 			<name>src/main/webapp/resources/assets/css/style-liberty.css</name>

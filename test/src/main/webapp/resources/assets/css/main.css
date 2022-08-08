@@ -1745,7 +1745,7 @@ input, select, textarea {
 /* Sections/Article */
 
 	section, article {
-		margin-bottom: 3em;
+		margin-bottom: 4em;
 	}
 
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
@@ -2166,6 +2166,11 @@ input, select, textarea {
 		background: #fff;
 		margin: 0 0 2em 0;
 		padding: 6em 0 6em 0;
+		body { padding: 0px; margin: 0px; }
+        .jb-box { width: 100%; height: 500px; overflow: hidden;margin: 0px auto; position: relative; }
+        video { width: 100%; }
+        .jb-text { position: absolute; top: 50%; width: 100%; }
+        .jb-text p { margin-top: -24px; text-align: center; font-size: 48px; color: #ffffff; }
 	}
 
 		.wrapper.style2 {
@@ -2176,7 +2181,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/header1.png");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2514,6 +2519,9 @@ input, select, textarea {
 		overflow: hidden;
 		padding: 2em 0 2em 0;
 		margin-bottom: 0;
+	}
+	.carousel .pre {
+		color:black;
 	}
 
 		.carousel .forward, .carousel .backward {

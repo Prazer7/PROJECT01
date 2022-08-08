@@ -42,9 +42,11 @@
 				</section>
 
 			<!-- Carousel -->
+		
 				<section class="carousel">
+					<p><b><b><pre> 인기 상품  </pre></b></b></p>
 					<div class="reel">
-
+					
 						<article>
 							<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic01.jpg" alt="" /></a>
 							<header>
@@ -94,7 +96,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic08.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic01.jpg" alt="" /></a>
 							<header>
 								<h3><a href="#"> 아이스 스타벅스 돌체 라떼 </a></h3>
 							</header>
@@ -102,7 +104,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic09.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic05.jpg" alt="" /></a>
 							<header>
 								<h3><a href="#"> 사케라또 아포가토 </a></h3>
 							</header>
@@ -112,13 +114,13 @@
 						<article>
 							<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic02.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#"> 우리 쑥 크림 프라푸치노 with 콜드 브루 </a></h3>
+								<h3><a href="#"> 우리 쑥 크림 프라푸치노  </a></h3>
 							</header>
 							<p> 김유섭 회원님 : 2022년 08월 08일 _2025년 08월 26일 </p>
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic07.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic03.jpg" alt="" /></a>
 							<header>
 								<h3><a href="#"> 제주 쑥떡 크림 프라푸치노 </a></h3>
 							</header>
@@ -148,7 +150,7 @@
 							natoque aenean scelerisque.
 						</p>
 						<footer>
-							<a href="#" class="button">Continue Reading</a>
+							<a href="#" class="button"> 영상 </a>
 						</footer>
 					</article>
 
@@ -163,7 +165,7 @@
 						</header>
 						<div class="row">
 							<article class="col-4 col-12-mobile special">
-								<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic07.jpg" alt="" /></a>
+								<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/이하성.jpg" alt="" /></a>
 								<header>
 									<h3><a href="#">이하성</a></h3>
 								</header>
@@ -173,7 +175,7 @@
 								</p>
 							</article>
 							<article class="col-4 col-12-mobile special">
-								<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic08.jpg" alt="" /></a>
+								<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/송찬영.jpg" alt="" /></a>
 								<header>
 									<h3><a href="#">송찬영</a></h3>
 								</header>
@@ -183,9 +185,19 @@
 								</p>
 							</article>
 							<article class="col-4 col-12-mobile special">
-								<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/pic09.jpg" alt="" /></a>
+								<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/김지영1.jpg" alt="" /></a>
 								<header>
 									<h3><a href="#">김지영</a></h3>
+								</header>
+								<p>
+									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								</p>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="#" class="image featured"><img src="${pageContext.request.contextPath}/resources/images/김유섭.jpg" alt="" /></a>
+								<header>
+									<h3><a href="#">김유섭</a></h3>
 								</header>
 								<p>
 									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
